@@ -12,6 +12,6 @@ Welcome to my coding block!!
   I’m looking to collaborate on:<br>
   -Machine Learning projects<br>
   -
-</div>
+</div><br>
 
-####📫 How to reach me: ...
+  📫 How to reach me: ...
