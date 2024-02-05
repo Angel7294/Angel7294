@@ -8,9 +8,9 @@ Welcome to my coding block!!
 </div>
 
 <div>
-##I’m looking to collaborate on:
--Machine Learning projects
--
+  ##I’m looking to collaborate on:
+  -Machine Learning projects
+  -
 </div>
 
 ####📫 How to reach me: ...
