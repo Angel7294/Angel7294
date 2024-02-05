@@ -9,7 +9,7 @@ Welcome to my coding block!!
 </div><br>
 
 <div>
-  ##I’m looking to collaborate on:<br>
+  I’m looking to collaborate on:<br>
   -Machine Learning projects<br>
   -
 </div>
