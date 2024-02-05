@@ -5,7 +5,7 @@ Welcome to my coding block!!
   🔭 I’m currently working on
 </div><br>
 <div>
-  🌱 I’m currently learning ...
+  🌱 I’m currently learning:<br>
 </div><br>
 
 <div>
