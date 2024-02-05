@@ -15,5 +15,7 @@
   -Machine Learning projects<br>
   -
 </div><br>
-
-  📫 How to reach me: ...
+<div>
+  📫 How to reach me:<br>
+  
+</div>
