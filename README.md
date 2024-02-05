@@ -3,7 +3,7 @@ Welcome to my coding block!!
 
 <div>
   ##🔭 I’m currently working on
-</div
+</div>
 <div>
 ##🌱 I’m currently learning ...
 </div>
