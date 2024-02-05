@@ -3,10 +3,10 @@ Welcome to my coding block!!
 
 <div>
   ##🔭 I’m currently working on
-</div>
+</div><br>
 <div>
 ##🌱 I’m currently learning ...
-</div>
+</div><br>
 
 <div>
   ##I’m looking to collaborate on:<br>
