@@ -3,11 +3,11 @@
 
 <div>
   🔭 I’m currently working on:<br>
-  /AngelDev72/Pymon-
+  <a href="https://github.com/AngelDev72/Pymon">/Angel/Dev72/Pymon
 </div><br>
 <div>
   🌱 I’m currently learning:<br>
-[![Reflex](https://img.shields.io/badge/Reflex-0.3.9+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
+  
 </div><br>
 
 <div>
