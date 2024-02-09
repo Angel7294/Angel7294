@@ -14,7 +14,7 @@
   I’m looking to collaborate on:<br>
   -Machine Learning projects<br>
   -Pyton Projects<br>
-  -Or any project related 
+  -Or any project related to Python or Machine Learning
 </div><br>
 <div>
   📫 How to reach me:<br>
