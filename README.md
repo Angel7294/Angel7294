@@ -13,7 +13,8 @@
 <div>
   I’m looking to collaborate on:<br>
   -Machine Learning projects<br>
-  -
+  -Pyton Projects<br>
+  - 
 </div><br>
 <div>
   📫 How to reach me:<br>
