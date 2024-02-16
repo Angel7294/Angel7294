@@ -9,7 +9,6 @@
   🌱 I’m currently learning:<br>
   
 [![Reflex](https://img.shields.io/badge/Reflex-0.3.9+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
-![Mojo](https://img.shields.io/badge/Mojo-🔥-#212111style=for-the-badge&logo=Mojo&logoColor=white&labelColor=101010)](https://docs.modular.com/mojo/manual/basics.html)
 
 </div><br>
 
