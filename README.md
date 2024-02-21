@@ -3,7 +3,8 @@
 
 <div>
   🔭 I’m currently working on:<br>
-  <a href="https://github.com/AngelDev72/Pymon-">Pymon</a>
+  <a href="https://github.com/AngelDev72/Pymon-">Pymon</a><br>
+ <a href="https://github.com/AngelDev72/Eon">EON</a>
 </div><br>
 <div>
   🌱 I’m currently learning:<br>
